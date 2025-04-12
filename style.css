@@ -1,0 +1,61 @@
+.h1{
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+
+.navigation{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.sectionh1{
+    font-family: Roboto;
+    font-size: 44px;
+    font-weight: 900;
+}
+
+.button{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: Bold;
+}
+
+.ul{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.item{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.photos1{
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.team{
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.team2{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.footer{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+}
+
